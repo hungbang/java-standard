@@ -4,3 +4,4 @@
 3.  [project lombok boilerplate buster](https://corevalue.net/project-lombok-boilerplate-buster/)
 4.  [Setter injection versus constructor injection and the use of required](https://spring.io/blog/2007/07/11/setter-injection-versus-constructor-injection-and-the-use-of-required/)
 5.  http://cs-fundamentals.com/java-programming/java-comments-javadoc-single-multi-line.php
+6.  https://zeroturnaround.com/rebellabs/reasons-tips-and-tricks-for-better-java-documentation/
