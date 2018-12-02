@@ -7,3 +7,4 @@
 6.  https://zeroturnaround.com/rebellabs/reasons-tips-and-tricks-for-better-java-documentation/
 7.  [Spring boot profile](http://www.springboottutorial.com/spring-boot-profiles)
 8.  [Microservices and exception handling in Java with Feign and reflection](https://source.coveo.com/2016/02/19/microservices-and-exception-handling/)  
+9.  [how to debug integration test](https://doc.nuxeo.com/corg/how-to-debug-a-test-run-with-maven/)
