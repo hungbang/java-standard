@@ -9,3 +9,4 @@
 8.  [Microservices and exception handling in Java with Feign and reflection](https://source.coveo.com/2016/02/19/microservices-and-exception-handling/)  
 9.  [how to debug integration test](https://doc.nuxeo.com/corg/how-to-debug-a-test-run-with-maven/)
 10. [Piotrminkowski](https://dzone.com/users/2918001/piotrminkowski.html)
+11. [How to deploy mysql with docker compose?](https://github.com/hungbang/bitnami-docker-mysql)
