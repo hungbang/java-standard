@@ -11,3 +11,4 @@
 10. [Piotrminkowski](https://dzone.com/users/2918001/piotrminkowski.html)
 11. [How to deploy mysql with docker compose?](https://github.com/hungbang/bitnami-docker-mysql)
 12. [Spring boot rest api error handling](https://www.toptal.com/java/spring-boot-rest-api-error-handling)
+13. [Atomikos Spring integration](https://www.atomikos.com/Documentation/SpringIntegration)
