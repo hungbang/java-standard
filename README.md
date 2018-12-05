@@ -13,3 +13,4 @@
 12. [Spring boot rest api error handling](https://www.toptal.com/java/spring-boot-rest-api-error-handling)
 13. [Atomikos Spring integration](https://www.atomikos.com/Documentation/SpringIntegration)
 14. [jpa-caching-with-hazelcast-hibernate-and-spring-boot](https://piotrminkowski.wordpress.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/)
+15. [Hazelcast compatibility matrix](https://hazelcast.org/clients-languages/compatibility-matrix/)
