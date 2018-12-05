@@ -15,3 +15,4 @@
 14. [jpa-caching-with-hazelcast-hibernate-and-spring-boot](https://piotrminkowski.wordpress.com/2017/05/08/jpa-caching-with-hazelcast-hibernate-and-spring-boot/)
 15. [Hazelcast compatibility matrix](https://hazelcast.org/clients-languages/compatibility-matrix/)
 16. [Hazelcast management 3.10 need read before implement](https://docs.hazelcast.org/docs/management-center/3.10/manual/html/index.html)
+17. [Spring integration for Dropwizard Metrics](http://metrics.ryantenney.com/)
