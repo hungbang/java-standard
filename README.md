@@ -25,3 +25,4 @@
 24. [Best Topic to learn consul and spring cloud](https://howtodoinjava.com/spring-cloud/consul-service-registration-discovery/)
 25. [User Guide to implement spring cloud microservice](https://cloud.spring.io/spring-cloud-consul/multi/multi_spring-cloud-consul-discovery.html)
 26. [Distributed Configuration with Consul](https://cloud.spring.io/spring-cloud-static/spring-cloud-consul/2.1.0.M2/single/spring-cloud-consul.html)
+27. [Config server consul to reload properties](https://jeroenbellen.com/manage-and-reload-spring-application-properties-on-the-fly/)
