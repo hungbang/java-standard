@@ -19,3 +19,4 @@
 18. [RESTful APIs versioning](https://www.javadevjournal.com/spring/rest/rest-versioning/)
 19. [Spring git information](https://www.baeldung.com/spring-git-information)
 20. [Maven git commit id plugin](https://github.com/git-commit-id/maven-git-commit-id-plugin)
+21. [Bealdung-should-read](http://feeds.feedburner.com/Baeldung)
