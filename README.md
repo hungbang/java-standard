@@ -23,3 +23,4 @@
 22. [How to enable cors on spring boot](https://howtodoinjava.com/spring5/webmvc/spring-mvc-cors-configuration/)
 23. [Bitnami docker compose](https://github.com/hungbang/bitnami-docker-consul)
 24. [Best Topic to learn consul and spring cloud](https://howtodoinjava.com/spring-cloud/consul-service-registration-discovery/)
+25. [User Guide to implement spring cloud microservice](https://cloud.spring.io/spring-cloud-consul/multi/multi_spring-cloud-consul-discovery.html)
