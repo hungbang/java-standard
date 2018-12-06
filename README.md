@@ -21,3 +21,4 @@
 20. [Maven git commit id plugin](https://github.com/git-commit-id/maven-git-commit-id-plugin)
 21. [Bealdung-should-read](http://feeds.feedburner.com/Baeldung)
 22. [How to enable cors on spring boot](https://howtodoinjava.com/spring5/webmvc/spring-mvc-cors-configuration/)
+23. [Bitnami docker compose](https://github.com/hungbang/bitnami-docker-consul)
