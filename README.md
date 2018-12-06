@@ -17,3 +17,4 @@
 16. [Hazelcast management 3.10 need read before implement](https://docs.hazelcast.org/docs/management-center/3.10/manual/html/index.html)
 17. [Spring integration for Dropwizard Metrics](http://metrics.ryantenney.com/)
 18. [RESTful APIs versioning](https://www.javadevjournal.com/spring/rest/rest-versioning/)
+19. [Spring git information](https://www.baeldung.com/spring-git-information)
