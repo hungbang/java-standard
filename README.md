@@ -28,3 +28,4 @@
 27. [Config server consul to reload properties](https://jeroenbellen.com/manage-and-reload-spring-application-properties-on-the-fly/)
 28. [Spring boot - swagger - consul](https://www.tuturself.com/posts/view?menuId=&postId=1273)
 29. [Spring cloud stream with kafka](https://dzone.com/articles/spring-cloud-stream-with-kafka)
+30. [Spring Kafka](https://www.baeldung.com/spring-kafka)
