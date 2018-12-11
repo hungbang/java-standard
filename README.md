@@ -1,3 +1,6 @@
+##  Best article about logback and spring boot
+1.  https://dzone.com/articles/configuring-logback-with-spring-boot
+
 ##  Spring cloud and spring boot usage
 1.  [Usage to implement Spring boot and Spring Cloud](https://www.tutorialspoint.com/spring_boot/spring_boot_internationalization.htm)
 
