@@ -1,5 +1,11 @@
+## Best article have to read for java dev
+1.  http://mariusz.wyszomierski.pl/en/mapping-dozer-vs-mapstruct/
+2.  https://www.baeldung.com/java-microbenchmark-harness
+3.  https://www.baeldung.com/java-performance-mapping-frameworks
+
 ##  Best article about logback and spring boot
 1.  https://dzone.com/articles/configuring-logback-with-spring-boot
+
 
 ##  Spring cloud and spring boot usage
 1.  [Usage to implement Spring boot and Spring Cloud](https://www.tutorialspoint.com/spring_boot/spring_boot_internationalization.htm)
