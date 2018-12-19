@@ -2,6 +2,7 @@
 1.  http://mariusz.wyszomierski.pl/en/mapping-dozer-vs-mapstruct/
 2.  https://www.baeldung.com/java-microbenchmark-harness
 3.  https://www.baeldung.com/java-performance-mapping-frameworks
+4.  https://grokonez.com/spring-framework/spring-data/spring-boot-angular-6-example-spring-data-rest-postgresql-example
 
 ##  Best article about logback and spring boot
 1.  https://dzone.com/articles/configuring-logback-with-spring-boot
