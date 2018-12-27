@@ -7,6 +7,7 @@
 6.  [Introduce microservice](https://www.nginx.com/blog/introduction-to-microservices/)
 7.  [Java 8 date time to java.util.Date and vice versa](https://kodejava.org/how-to-convert-java-time-localdate-to-java-util-date/)
 8.  [Spring boot startup Event](http://javainfinite.com/spring-boot/springboot-applicationreadyevent-applicationfailedevent-contextrefreshedevent/)
+9.  [Elasticsearch Filter and Query](https://grokonez.com/elasticsearch/elasticsearch-filter-vs-query-context-overview)
 
 ##  Best article about logback and spring boot
 1.  https://dzone.com/articles/configuring-logback-with-spring-boot
