@@ -20,6 +20,7 @@
 
 ##  Best article about logback and spring boot
 1.  https://dzone.com/articles/configuring-logback-with-spring-boot
+2.  [Spring performance logging](https://www.baeldung.com/spring-performance-logging)
 
 
 
