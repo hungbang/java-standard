@@ -1,3 +1,10 @@
+## Query DSL tutorial 
+1.  http://www.querydsl.com/static/querydsl/4.1.3/reference/html_single/#d0e196
+2.  http://blog.mysema.com/2010/07/querying-hibernate-with-querydsl.html
+3.  https://github.com/querydsl/apt-maven-plugin
+4.  http://www.querydsl.com/
+5.  https://www.petrikainulainen.net/programming/spring-framework/spring-data-jpa-tutorial-part-five-querydsl/
+
 ## Best article have to read for java dev
 1.  http://mariusz.wyszomierski.pl/en/mapping-dozer-vs-mapstruct/
 2.  https://www.baeldung.com/java-microbenchmark-harness
