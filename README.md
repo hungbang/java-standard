@@ -20,7 +20,7 @@
 8.  [Spring boot startup Event](http://javainfinite.com/spring-boot/springboot-applicationreadyevent-applicationfailedevent-contextrefreshedevent/)
 9.  [Elasticsearch Filter and Query](https://grokonez.com/elasticsearch/elasticsearch-filter-vs-query-context-overview)
 10. [Spring data elasticsearch example](http://www.jorgehernandezramirez.com/2017/04/11/spring-data-elasticsearch/)
-
+11. [Spring elasticsearch data pretty format](https://docs.spring.io/spring-data/elasticsearch/docs/3.2.0.M1/reference/html/#reference)
 
 ##  Best article about logback and spring boot
 1.  https://dzone.com/articles/configuring-logback-with-spring-boot
