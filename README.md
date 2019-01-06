@@ -30,6 +30,7 @@
 
 ##  Spring cloud and spring boot usage
 1.  [Usage to implement Spring boot and Spring Cloud](https://www.tutorialspoint.com/spring_boot/spring_boot_internationalization.htm)
+2.  [Faster development with Spring boot devtools](https://www.vojtechruzicka.com/spring-boot-devtools/)
 
 ## Java Article
 1.  [New Programming Jargon](https://blog.codinghorror.com/new-programming-jargon/)
