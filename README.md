@@ -21,6 +21,7 @@
 9.  [Elasticsearch Filter and Query](https://grokonez.com/elasticsearch/elasticsearch-filter-vs-query-context-overview)
 10. [Spring data elasticsearch example](http://www.jorgehernandezramirez.com/2017/04/11/spring-data-elasticsearch/)
 11. [Spring elasticsearch data pretty format](https://docs.spring.io/spring-data/elasticsearch/docs/3.2.0.M1/reference/html/#reference)
+12. [Java cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 ##  Best article about logback and spring boot
 1.  https://dzone.com/articles/configuring-logback-with-spring-boot
