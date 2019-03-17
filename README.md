@@ -1,6 +1,7 @@
 ## Elasticsearch and Spring Data
 1.  https://stackjava.com/elasticsearch/code-vi-du-spring-boot-spring-data-elasticsearch-elasticsearchtemplate-elasticsearchrepository.html
 2.  https://kreuzwerker.de/blog/elastic-search-as-a-structured-search-provider
+
 ## Unit test & Integration Test
 1.  https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2
 2.  http://www.vogella.com/tutorials/Mockito/article.html
@@ -70,3 +71,4 @@
 30. [Spring Kafka](https://www.baeldung.com/spring-kafka)
 31. [Javadoc codeing standard](https://blog.joda.org/2012/11/javadoc-coding-standards.html)
 32. [Docker-springboot-container-tutorial](http://containertutorials.com/docker-compose/spring-boot-app.html)
+33. https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-kubernetes.html
