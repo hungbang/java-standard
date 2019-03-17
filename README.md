@@ -1,5 +1,6 @@
 ## Elasticsearch and Spring Data
 1.  https://stackjava.com/elasticsearch/code-vi-du-spring-boot-spring-data-elasticsearch-elasticsearchtemplate-elasticsearchrepository.html
+2.  https://kreuzwerker.de/blog/elastic-search-as-a-structured-search-provider
 ## Unit test & Integration Test
 1.  https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2
 2.  http://www.vogella.com/tutorials/Mockito/article.html
