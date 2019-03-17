@@ -3,6 +3,7 @@
 2.  https://kreuzwerker.de/blog/elastic-search-as-a-structured-search-provider
 3.  [Elasticsearch for java developer](https://www.javacodegeeks.com/2017/03/elasticsearch-java-developers-elasticsearch-java.html)
 4.  [Elasticsearch hello world example](https://www.mkyong.com/elasticsearch/elasticsearch-hello-world-example/)
+5.  [10 Tips to Become a Better Java Developer in 2018](https://www.javacodegeeks.com/2018/05/10-tips-to-become-a-better-java-developer-in-2018.html)
 
 ## Unit test & Integration Test
 1.  https://dzone.com/articles/unit-and-integration-tests-in-spring-boot-2
