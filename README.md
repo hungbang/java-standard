@@ -75,3 +75,4 @@
 31. [Javadoc codeing standard](https://blog.joda.org/2012/11/javadoc-coding-standards.html)
 32. [Docker-springboot-container-tutorial](http://containertutorials.com/docker-compose/spring-boot-app.html)
 33. https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-kubernetes.html
+34. https://stackjava.com/uncategorized/cron-expression-la-gi-huong-dan-cu-phap-cron-expression.html
