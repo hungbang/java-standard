@@ -76,3 +76,4 @@
 32. [Docker-springboot-container-tutorial](http://containertutorials.com/docker-compose/spring-boot-app.html)
 33. https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-kubernetes.html
 34. https://stackjava.com/uncategorized/cron-expression-la-gi-huong-dan-cu-phap-cron-expression.html
+35. [sonarqube-scanning-in-15-minutes-2](https://dzone.com/articles/sonarqube-scanning-in-15-minutes-2)
