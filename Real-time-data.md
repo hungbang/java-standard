@@ -4,3 +4,4 @@
 4.  [Confluent Docker Quickstart](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html)
 5.  [Running and install docker kafka](http://www.michael-noll.com/blog/2013/03/13/running-a-multi-broker-apache-kafka-cluster-on-a-single-node/)
 6. [Spring boot and kafka config](https://thepracticaldeveloper.com/2018/11/24/spring-boot-kafka-config/)
+7.  [Testing apache kafka with spring boot](https://blog.mimacom.com/testing-apache-kafka-with-spring-boot/)
