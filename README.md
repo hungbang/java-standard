@@ -79,3 +79,4 @@
 35. [sonarqube-scanning-in-15-minutes-2](https://dzone.com/articles/sonarqube-scanning-in-15-minutes-2)
 36. [Alibaba java coding guidelines](https://alibaba.github.io/Alibaba-Java-Coding-Guidelines/)
 37. [Model mapping](https://www.baeldung.com/entity-to-and-from-dto-for-a-java-spring-application)
+38. [Java concurrency tutorial](https://howtodoinjava.com/java-concurrency-tutorial/)
